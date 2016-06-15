@@ -1,5 +1,5 @@
 <?php
-$url = 'http://agency.governmentjobs.com/sanantoniotx/default.cfm?action=viewclassspec&ClassSpecID=828399';
+$url = '/*place your URL here*/';
 $output = file_get_contents($url);
 
 
